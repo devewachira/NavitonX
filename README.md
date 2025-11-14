@@ -162,6 +162,7 @@ This README covers:
 - **Image Handling:** `intervention/image` via `Image` facade
 - **Notifications / Toastr:** Toastr for frontend/backend notifications
 
+php7.4 artisan serve --host=127.0.0.1 --port=8000
 
 ---
 
