@@ -1,0 +1,22 @@
+// MintyLime theme tokens
+$ml-primary: #A4D65E; // Lime Green (Brand)
+$ml-bg: #0A1628; // Dark Navy/Black background
+$ml-text: #FFFFFF; // Primary text
+$ml-text-secondary: #B8C5D6; // Secondary text
+$ml-accent: #00D4C8; // Teal/Cyan accent
+$ml-primary-hover: #C2E692; // Minty hover variant
+
+// Apply MintyLime to Bootstrap core
+$body-bg: $ml-bg;
+$body-color: $ml-text;
+
+$font-family-sans-serif: "Raleway", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+$primary: $ml-primary;
+$secondary: $ml-accent;
+$success: $ml-primary;
+$info: $ml-accent;
+$warning: #FFC107;
+$danger: #E53935;
