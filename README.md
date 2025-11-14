@@ -312,26 +312,37 @@ Visit:
 
 The `/images` folder in the project root contains image assets that can be used for documentation, marketing pages, or as static content.
 
-All images currently in the folder:
+All images currently in the folder (clickable links in GitHub / Markdown viewers):
 
-- `images/1.png`
-- `images/2.png`
-- `images/3.png`
-- `images/4.png`
-- `images/5.png`
-- `images/6.png`
-- `images/7.png`
-- `images/8.png`
-- `images/9.png`
-- `images/10.png`
-- `images/12.png`
+- [`images/1.png`](images/1.png)
+- [`images/2.png`](images/2.png)
+- [`images/3.png`](images/3.png)
+- [`images/4.png`](images/4.png)
+- [`images/5.png`](images/5.png)
+- [`images/6.png`](images/6.png)
+- [`images/7.png`](images/7.png)
+- [`images/8.png`](images/8.png)
+- [`images/9.png`](images/9.png)
+- [`images/10.png`](images/10.png)
+- [`images/12.png`](images/12.png)
 
-You can reference these images from Markdown or Blade views as needed. For example, in Markdown:
+You can reference these images from Markdown or Blade views as needed.
 
-```md
+### 7.1 Image previews (GitHub-friendly)
+
+The images below will render directly in the README on GitHub:
+
 ![Screenshot 1](images/1.png)
 ![Screenshot 2](images/2.png)
-```
+![Screenshot 3](images/3.png)
+![Screenshot 4](images/4.png)
+![Screenshot 5](images/5.png)
+![Screenshot 6](images/6.png)
+![Screenshot 7](images/7.png)
+![Screenshot 8](images/8.png)
+![Screenshot 9](images/9.png)
+![Screenshot 10](images/10.png)
+![Screenshot 12](images/12.png)
 
 Or from a Blade template (if moved/served appropriately):
 
